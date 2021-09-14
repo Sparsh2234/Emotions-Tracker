@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="emotion_button_start">#c07dff</color>
+    <color name="emotion_button_center">#ac56fc</color>
+
+    <color name="great_color">#00CC00</color>
+    <color name="anxious_color">#66CC00</color>
+
+    <color name="frustrated_color">#CCCC00</color>
+
+    <color name="overwhelmed_color">#CC6600</color>
+    <color name="angry_color">#CC0000</color>
+
+
+
+</resources>

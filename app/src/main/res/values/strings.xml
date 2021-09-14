@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EmotionTracker</string>
+    <string name="emotions">Emotions</string>
+    <string name="tracker">Tracker</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_m_angry">I\'m Angry</string>
+    <string name="i_m_overwhelmed">I\'m Overwhelmed</string>
+    <string name="i_m_frustrated">I\'m Frustrated</string>
+    <string name="i_m_great">I\'m Great!</string>
+    <string name="username_sample">placeHolder</string>
+</resources>
