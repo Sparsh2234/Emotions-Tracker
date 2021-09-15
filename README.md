@@ -4,6 +4,6 @@ This Android application allows users to track their emotions through a simple a
 The application features a graph view which shows an overview of patient history (under development!).
 
 
-![Screenshot](Emotions_Fragment.png)
+![Screenshot](Emotions_Fragment.jpg)
 
 ![Screenshot](Tracker.png)
